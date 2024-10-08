@@ -7,6 +7,7 @@ import java.util.List;
  * Implements teachers and student
  * using an ArrayList.
  */
+
 public class School {
 
     private List<Teacher> teachers;
